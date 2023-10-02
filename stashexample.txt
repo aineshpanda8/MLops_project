@@ -1,0 +1,1 @@
+this is an example where we can temporarily stash changes instead of commiting the change right away. Stashed changes can be restored later on if required.
